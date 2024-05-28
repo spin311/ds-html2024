@@ -1,0 +1,17 @@
+body{
+	background: black;
+}
+.tekst{
+	color: yellow;
+}
+.A1{
+	text-decoration: blink;
+	color: red;
+
+}
+.red{
+	color: red;
+}
+.video{
+	margin-top: 0px; text-align: center; margin-left: 400px;
+}

@@ -1,0 +1,29 @@
+.DIV{
+	text-align: center;
+	border: 2px red dotted;
+	width: 100px;
+	height: 50px;
+	background-image:none;
+	background: yellow;
+}
+.p˙{
+	color: black;
+}
+body{
+	background: lightblue;
+}
+.body{
+	background: skyblue;
+}
+.center{
+	text-align: center;
+}
+.margin{
+	margin-bottom: 200px;
+}
+.A1{
+	text-decoration: blink;
+	color: red;
+.link{
+		text-decoration: blink;
+}

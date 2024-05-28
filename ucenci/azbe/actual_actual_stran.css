@@ -1,0 +1,86 @@
+.notxt { /*ko ni teksture al jo morm se najt/naret*/
+	background-image: url("./slike/notxt.jpg");
+	background-size: cover;
+	height: 100px;
+	background-attachment: fixed;
+	width: 100%;
+}
+
+#vrh {
+	height: 100px;
+	background-attachment: fixed;
+	width: 100%;
+}
+
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 200px;
+	background-color: #f1f1f1;
+	display: inline-block;
+	vertical-align: top;
+	}
+
+li {
+	border: thick 2px;
+}
+
+li a {
+	display: block;
+	padding: 8px 16px;
+	text-decoration: none;
+	height: 150px;
+	}
+
+.vse {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 20px; /* Adjust this margin as needed */
+}
+
+.container {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.text-next-to {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 20px; /* Adjust the margin as needed */
+	color: white;
+
+
+#counter {
+  margin-top: 30px;
+  border: 2px double gray;
+  border-radius: 4px;
+  padding: 30px 20px;
+  width: 1250px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  justify-content: center;
+}
+
+#counter div {
+  text-align: center;
+}
+
+button {
+  min-width: 25px;
+}
+
+.chop_suey {
+	margin-left: 150px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+.ocene {
+	margin-left: 50px;
+	margin-top: 50px;
+}

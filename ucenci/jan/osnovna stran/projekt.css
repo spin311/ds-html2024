@@ -1,0 +1,30 @@
+.Text{
+	color: white;
+}
+.red{
+	color: red;
+}
+.sec{
+	color: white;
+}
+body{
+	background: black;
+
+}
+.Naslov{
+	color: red ; text-decoration: unset;
+	position: static;
+}
+.con{
+	border: 10px double red;
+}
+.skrivnilink{
+	color: black;
+	background: darkgray;
+}
+.VelikSkok{
+	margin-bottom: 5000px;
+}
+.A1{
+	text-decoration: blink;
+}

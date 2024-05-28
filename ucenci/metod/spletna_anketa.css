@@ -1,0 +1,35 @@
+*{
+	background: lightyellow;
+	text-align: center;
+	justify-content: center;
+}
+
+
+.rob{
+	border: 3px solid black;
+	width: 400px;
+	
+}
+.moder{
+	background:lightblue;
+	
+
+}
+.rdec{
+	background:red;
+	
+}
+.slika-levo {
+	float: left;  
+    margin-right: 10px;
+	height: 400px;
+	width: 400px;}
+
+.slika-desno {
+	float: right; 
+	margin-left: 10px;
+	height: 400px;
+	width: 400px;	
+	}
+
+
